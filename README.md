@@ -1,3 +1,10 @@
+![image](https://user-images.githubusercontent.com/7889219/181415632-e3403946-8c6a-4239-9634-f6a8ca2ee809.png)
+
+
+https://dojo-27bb5.web.app/
+
+Project management app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
